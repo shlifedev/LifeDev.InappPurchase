@@ -1,0 +1,18 @@
+{
+  "name": "lifedev.inapp",
+  "scope": "LifeDev",
+  "version": "1.0.0",
+  "displayName": "LifeDev.InappPurchase",
+  "description": "Inapp Purchase 유틸리입니다. 사용 전 반드시 유니티의 Inapp Purchase 서비스를 최신버전으로 활성화 하세요.",
+  "keywords": [
+    "inapp-purchase",
+    "iap"
+  ],
+  "category": "Unity",
+  "hideInEditor": false,
+  "author": {
+    "name": "shlifedev",
+    "email": "shlifedev@gmail.com",
+    "url": "https://shlife.dev"
+  }
+}
